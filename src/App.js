@@ -5,6 +5,7 @@ import Cover from "./components/cover/Cover"
 import Navbar from './components/navbar/Navbar';
 import Slider from './components/slider/Slider';
 import Info from "./components/info/Info"
+import Footer from './components/footer/Footer';
 
 function App() {
   const [scrollHeight, setScrollHeight] = useState(0);
@@ -25,6 +26,7 @@ function App() {
       <About/>
       <Slider/>
       <Info/>
+      <Footer/>
     </div>
   );
 }

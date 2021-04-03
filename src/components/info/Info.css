@@ -1,15 +1,13 @@
-.info-container 
-{
+.info-container {
     width: 100%;
-    background-color: white;
     height: 300px;
+    background-color: white;
     color: black;
-}
-
-.info 
-{
+  }
+  
+  .info {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100%;
-}
+  }
