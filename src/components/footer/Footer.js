@@ -25,7 +25,7 @@
                          <i className="fab fa-twitter twitter"></i>
                     </a>
                     <a href="https://github.com/alexangria1992" target="_blank" rel="noreferrer">
-                          <i className="fab fa-github github"></i>                   
+                          <i className="fab fa-github-square git-footer"></i>                   
                      </a>
                 </div>
             </div>
