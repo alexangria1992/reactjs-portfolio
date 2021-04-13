@@ -29,11 +29,12 @@
 
 .about-img
 {
-    width: 45%;
+    width: 35%;
     display: flex;
     align-self: center;
     height: 520px;
     overflow: hidden;
+    border-radius: 50%;
 }
 
 @media only screen and (max-width: 960px)
