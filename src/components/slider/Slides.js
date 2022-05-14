@@ -2,12 +2,13 @@ import React from "react";
 import "./Slider.css";
 const slidesInfo = [
   {
-    src: "https://i.imgur.com/mC8103h.jpg",
+    src: "https://i.imgur.com/TKYGfGe.jpg",
     alt: "Project 1",
     desc: "Project 1",
-    link: "https://proshop-demonstration.herokuapp.com/#/",
+    link: "https://mern-amazona-web-app.herokuapp.com/",
     icon: "fab fa-github fa-3x",
-    iconLink: "https://github.com/alexangria1992/django-react-pro-shop",
+    iconLink:
+      "https://github.com/alexangria1992/MERN-E-Commerce-Web-Application",
   },
   {
     src: "https://i.imgur.com/qhcghIR.jpg",
