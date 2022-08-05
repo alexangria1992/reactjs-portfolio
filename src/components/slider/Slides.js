@@ -58,6 +58,14 @@ const slidesInfo = [
     icon: "fab fa-github fa-3x",
     iconLink: "https://github.com/alexangria1992/apple-store-website",
   },
+  {
+    src: "https://i.imgur.com/Rhf38Ug.jpg",
+    alt: "Project 8",
+    desc: "Project 8",
+    link: "https://alex-gym.netlify.app/",
+    icon: "fab fa-github fa-3x",
+    iconLink: "https://github.com/alexangria1992/React-Gym-App",
+  },
 ];
 
 const slides = slidesInfo.map((slide) => (
